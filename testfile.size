@@ -1,0 +1,25 @@
+body {
+  background: red;
+}
+
+.never {
+  color: blue;
+  size: 20% 12rem;
+}
+
+.gonna {
+  size: 50px;
+}
+
+.give {
+  size: 300em 1px;
+}
+
+.you {
+  size: 13%;
+}
+
+.up {
+  border-radius: 30px;
+  size: 80em;
+}
