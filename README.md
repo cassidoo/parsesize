@@ -1,11 +1,11 @@
-# sizecss
+# size
 
 A tiny CSS preprocessor that converts the `size` property to `width` and `height`.
 
 ## How to use it
 
 ```
-npm install -g sizecss
+npm install -g size
 sizecss testfile.size
 ```
 

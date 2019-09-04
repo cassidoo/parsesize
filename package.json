@@ -1,5 +1,5 @@
 {
-  "name": "sizecss",
+  "name": "size",
   "version": "1.0.0",
   "description": "CSS preprocessor that converts size property to width and height",
   "main": "./index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cassidoo/sizecss.git"
+    "url": "git+https://github.com/cassidoo/size.git"
   },
   "keywords": [
     "css",
@@ -18,7 +18,7 @@
   "author": "cassidoo",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/cassidoo/sizecss/issues"
+    "url": "https://github.com/cassidoo/size/issues"
   },
-  "homepage": "https://github.com/cassidoo/sizecss#readme"
+  "homepage": "https://github.com/cassidoo/size#readme"
 }
