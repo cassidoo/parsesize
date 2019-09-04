@@ -51,7 +51,7 @@ Outputted `testfile.css` file:
   width: 50px;
 }
 
-.give {
+.let {
   height: 300em;
   width: 1px;
 }
@@ -61,7 +61,7 @@ Outputted `testfile.css` file:
   width: 13%;
 }
 
-.up {
+.down {
   border-radius: 30px;
   height: 80em;
   width: 80em;
