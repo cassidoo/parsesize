@@ -1,0 +1,24 @@
+{
+  "name": "sizecss",
+  "version": "1.0.0",
+  "description": "CSS preprocessor that converts size property to width and height",
+  "main": "./index.js",
+  "bin": {
+    "sizecss": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cassidoo/sizecss.git"
+  },
+  "keywords": [
+    "css",
+    "preprocessor",
+    "size"
+  ],
+  "author": "cassidoo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cassidoo/sizecss/issues"
+  },
+  "homepage": "https://github.com/cassidoo/sizecss#readme"
+}
