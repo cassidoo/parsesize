@@ -1,11 +1,11 @@
-# size
+# parsesize
 
 A tiny CSS preprocessor that converts the `size` property to `width` and `height`.
 
 ## How to use it
 
 ```
-npm install -g size
+npm install -g parsesize
 sizecss testfile.size
 ```
 

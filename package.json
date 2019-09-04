@@ -1,24 +1,25 @@
 {
-  "name": "size",
+  "name": "parsesize",
   "version": "1.0.0",
-  "description": "CSS preprocessor that converts size property to width and height",
+  "description": "Tiny CSS preprocessor that converts size property to width and height",
   "main": "./index.js",
   "bin": {
     "sizecss": "./index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cassidoo/size.git"
+    "url": "git+https://github.com/cassidoo/parsesize.git"
   },
   "keywords": [
     "css",
     "preprocessor",
-    "size"
+    "size",
+    "parsesize"
   ],
   "author": "cassidoo",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/cassidoo/size/issues"
+    "url": "https://github.com/cassidoo/parsesize/issues"
   },
-  "homepage": "https://github.com/cassidoo/size#readme"
+  "homepage": "https://github.com/cassidoo/parsesize#readme"
 }
